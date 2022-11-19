@@ -41,7 +41,6 @@
 extern "C" {
 #endif
 
-
 /*
 ** Provide the ability to override linkage features of the interface.
 */
